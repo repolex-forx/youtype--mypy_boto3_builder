@@ -1,0 +1,11 @@
+{
+  "org": "youtype",
+  "repo": "mypy_boto3_builder",
+  "versions": [
+    {
+      "commit": "d6226a0121fa2e887ce6a19bbf1341c03d69d280",
+      "tag": "",
+      "parsed_at": "2026-11-06T03:15:35.584162+00:00"
+    }
+  ]
+}
