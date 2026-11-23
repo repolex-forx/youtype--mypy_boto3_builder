@@ -3,6 +3,11 @@
   "repo": "mypy_boto3_builder",
   "versions": [
     {
+      "commit": "dab930ae91d3887675afb59845a96314ef3a3f42",
+      "tag": "8.12.0",
+      "parsed_at": "2026-11-23T05:56:15.560666+00:00"
+    },
+    {
       "commit": "d6226a0121fa2e887ce6a19bbf1341c03d69d280",
       "tag": "",
       "parsed_at": "2026-11-06T03:15:35.584162+00:00"
